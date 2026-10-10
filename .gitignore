@@ -1,0 +1,8 @@
+photos/
+backup/
+.DS_Store
+kimsnoodle_backup_*.json
+dist/
+.vercel/
+tools/demo/out/
+carousel-maker.html
